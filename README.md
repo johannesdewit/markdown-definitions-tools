@@ -25,6 +25,8 @@ and understandable without any styling or processors.
 - [ ] Write script that orders multiple definitions within a file alphabetically.
   - [ ] Make option for changing sort order.
 - [ ] Write a script to clean up typo's within the definition format.
+- [ ] Write a script to change the definition format to e.g. [MultiMarkdown definition lists](https://rawgit.com/fletcher/MultiMarkdown-6-Syntax-Guide/master/index.html). Which use a slightly diffent format
+- [ ] Write a script to convert definition list to yaml or json.
 
 ## order_definitions.py
 
